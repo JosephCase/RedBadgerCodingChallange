@@ -1,4 +1,4 @@
-# RedBadgerCodingChallange
+# RubyCodingChallange
 
 Please run solution.rb using ruby in the command line.
 
